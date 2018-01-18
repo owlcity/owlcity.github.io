@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "zkseek, jekyll"
+keywords: "zkseek, jekyll,javascript,php"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
