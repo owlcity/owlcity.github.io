@@ -8,7 +8,9 @@ tags:
 - antd
 ---
 
-### (转：https://blog.csdn.net/Wu_shuxuan/article/details/78832384)Facebook 官方推出Create-React-App脚手架，基本可以零配置搭建基于webpack的React开发环境，内置了热更新等功能。
+### (转：https://blog.csdn.net/Wu_shuxuan/article/details/78832384)
+
+##### Facebook 官方推出Create-React-App脚手架，基本可以零配置搭建基于webpack的React开发环境，内置了热更新等功能。
 
 **使用的原因以及特性:**
 
